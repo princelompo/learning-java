@@ -20,7 +20,7 @@
  * @author Formation Java
  * @version 1.0
  */
-public class Jour4 {
+public class jav4{
     
     public static void main(String[] args) {
         
